@@ -31,3 +31,6 @@ body {
     text-wrap: balance;
   }
 }
+.custom-bullet {
+  list-style-image: url('/exercises/my-app/public/tick.png');
+}
