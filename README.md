@@ -18,16 +18,16 @@ To get started with this project, follow the steps below:
 
    ```bash
    git clone https://github.com/Rediet-W/job_listing_app.git
-Navigate to the project directory:
+   Navigate to the project directory:
 
-cd job_listing_app
-Install dependencies:
+   cd job_listing_app
+   Install dependencies:
+   npm install
 
-npm install
-Start the development server:
-
-npm run dev
-Open your browser and go to http://localhost:3000 to view the application.```
+   Start the development server:
+   npm run dev
+   Open your browser and go to http://localhost:3000 to view the application. 
+   ```
 
 ## Usage
 The main job listing page is accessible at /jobs, where you can view the list of all job opportunities.
