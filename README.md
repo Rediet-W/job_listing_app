@@ -17,10 +17,10 @@ To get started with this project, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Rediet-W/Web_Track.git
+   git clone https://github.com/Rediet-W/job_listing_app.git
 Navigate to the project directory:
 
-cd Web_Track
+cd job_listing_app
 Install dependencies:
 
 npm install
@@ -35,11 +35,11 @@ Click on any job title to view the detailed job description.
 
 ## Screenshots
 
-###Job Listing Dashboard:
+### Job Listing Dashboard:
 ![Screenshot](public/jobs_list.png)
 
 This page displays a list of all job opportunities available.
-###Job Detail Page:
+### Job Detail Page:
 
 ![Screenshot](public/jobs_detail.png)
 Provides a detailed view of a selected job, including its description, responsibilities, location, and required skills.
