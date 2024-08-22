@@ -36,7 +36,7 @@ Click on any job title to view the detailed job description.
 ## Screenshots
 
 ### Job Listing Dashboard:
-![Screenshot](public/jobs_list.png)
+![Screenshot](public/job_list2.png)
 
 This page displays a list of all job opportunities available.
 ### Job Detail Page:
